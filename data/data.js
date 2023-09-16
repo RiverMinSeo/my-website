@@ -32,4 +32,17 @@ export const portfolioList = {
     <img src="images/pic03.jpg"/>
     `,
   },
+  3: {
+    id: 3,
+    title: "LOREM2",
+    subTitle:
+      "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    mainStyle: "style2",
+    mainImg: "images/main-2.jpg",
+    contentHtml: `
+    <img src="images/pic01.jpg"/>
+    <img src="images/pic02.jpg"/>
+    <img src="images/pic03.jpg"/>
+    `,
+  },
 };
